@@ -18,9 +18,22 @@
     #if i % 2 == 0:
         #print(i, end=" ")
 
-for r in range (1,15,1):
-    print(r)
-    
+#for r in range (1,15,1):
+    #print(r)
+    # wap to takes start_point and end_point from user input and print all number divisible by 2 and 3.
+
+    # wap to take a number from user input input and print formated table . 
+    # # format:
+    # 3x1=3
+    # 3x2=6
+    # 3x3=9
+    # ....
+    # 3x10=30
+    # 
+    # 
+    # wap to take a number from user input and print reversed format table . 
+    #  
+
         
    
         
