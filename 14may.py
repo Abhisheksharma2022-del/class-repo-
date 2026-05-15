@@ -1,21 +1,21 @@
-# text="This is python"
+# # start=10
+# # end=20
+# # while start <= end :
+# #     if start%2==0:
+# #         print(start)
+# #         start+=3
+# # print (start)
+# count = 1
+# while count <=5:
+#     print("Hello")
+#     count +=1
 
-# space_cont= 0
-# for ch in text:
-#     if ch == " ":
-
-#         space_cont += 1
-
-# print("Total spaces =", space_cont)
+count=1
+while count <=20:
+    print("Python")
+    count +=1
 
 
-str="D-1 267/268 MAYUR-VIHAR-PHASE-3 110096"
-num="0123456789"
-c=0
-for i in str :
-    if i in num:
-        c+=1
-print(c)
 
 
 
